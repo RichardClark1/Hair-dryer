@@ -1,0 +1,15 @@
+override fun onCreate(savedInstanceState: Bundle?) {
+    ...
+    launch {
+        startTimer()
+    }
+}
+
+fun startTimer(count: Long = 1000) {
+    object: CountDownTimer(count, 1000) {
+        override fun onTick(millisUntilFinished: Long) {}
+        override fun onFinish() {
+            startTimer()
+        }
+    }.start()
+}
