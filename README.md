@@ -1,1 +1,2 @@
 # Hair-dryer
+A hair dryer, hairdryer or blow dryer is an electromechanical device that blows ambient or hot air over damp hair to speed the evaporation of water to dry the hair. Blow dryers enable better control over the shape and style of hair, by accelerating and controlling the formation of temporary hydrogen bonds within each strand. These bonds are powerful (allowing stronger hair shaping than the sulfur bonds formed by permanent waving products) but are temporary and extremely vulnerable to humidity. They disappear with a single washing of the hair.
